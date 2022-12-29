@@ -1,0 +1,6 @@
+D:\DomashnaRabota\TipoveDanniUpr\16\bin\Debug\16.exe.config
+D:\DomashnaRabota\TipoveDanniUpr\16\bin\Debug\16.exe
+D:\DomashnaRabota\TipoveDanniUpr\16\bin\Debug\16.pdb
+D:\DomashnaRabota\TipoveDanniUpr\16\obj\Debug\16.csproj.CoreCompileInputs.cache
+D:\DomashnaRabota\TipoveDanniUpr\16\obj\Debug\16.exe
+D:\DomashnaRabota\TipoveDanniUpr\16\obj\Debug\16.pdb

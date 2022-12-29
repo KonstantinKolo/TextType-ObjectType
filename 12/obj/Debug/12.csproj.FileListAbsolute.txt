@@ -1,0 +1,7 @@
+D:\DomashnaRabota\TipoveDanniUpr\12\bin\Debug\12.exe.config
+D:\DomashnaRabota\TipoveDanniUpr\12\bin\Debug\12.exe
+D:\DomashnaRabota\TipoveDanniUpr\12\bin\Debug\12.pdb
+D:\DomashnaRabota\TipoveDanniUpr\12\obj\Debug\12.csproj.AssemblyReference.cache
+D:\DomashnaRabota\TipoveDanniUpr\12\obj\Debug\12.csproj.CoreCompileInputs.cache
+D:\DomashnaRabota\TipoveDanniUpr\12\obj\Debug\12.exe
+D:\DomashnaRabota\TipoveDanniUpr\12\obj\Debug\12.pdb
